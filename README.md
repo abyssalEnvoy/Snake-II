@@ -1,6 +1,6 @@
 # Snake II
 
-A small snake clone I rewrote from C# to Python for learning purposes. Find the original C# version [here](https://github.com/abyssalEnvoy/Snake).
+A small snake clone I rewrote from C# to Python for learning purposes. Find the original C# version [here](https://github.com/abyssalEnvoye/Snake).
 
 ## Building from source
 
